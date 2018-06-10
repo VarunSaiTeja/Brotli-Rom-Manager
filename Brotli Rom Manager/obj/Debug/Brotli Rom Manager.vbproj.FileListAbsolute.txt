@@ -1,0 +1,19 @@
+c:\users\varun\documents\visual studio 2017\Projects\Brotli Rom Manager\Brotli Rom Manager\bin\Debug\Brotli Rom Manager.exe.config
+c:\users\varun\documents\visual studio 2017\Projects\Brotli Rom Manager\Brotli Rom Manager\bin\Debug\Brotli Rom Manager.exe
+c:\users\varun\documents\visual studio 2017\Projects\Brotli Rom Manager\Brotli Rom Manager\bin\Debug\Brotli Rom Manager.pdb
+c:\users\varun\documents\visual studio 2017\Projects\Brotli Rom Manager\Brotli Rom Manager\bin\Debug\Brotli Rom Manager.xml
+c:\users\varun\documents\visual studio 2017\Projects\Brotli Rom Manager\Brotli Rom Manager\obj\Debug\Brotli Rom Manager.vbprojResolveAssemblyReference.cache
+c:\users\varun\documents\visual studio 2017\Projects\Brotli Rom Manager\Brotli Rom Manager\obj\Debug\Brotli_Rom_Manager.Main.resources
+c:\users\varun\documents\visual studio 2017\Projects\Brotli Rom Manager\Brotli Rom Manager\obj\Debug\Brotli_Rom_Manager.Resources.resources
+c:\users\varun\documents\visual studio 2017\Projects\Brotli Rom Manager\Brotli Rom Manager\obj\Debug\Brotli_Rom_Manager.Pack.resources
+c:\users\varun\documents\visual studio 2017\Projects\Brotli Rom Manager\Brotli Rom Manager\obj\Debug\Brotli_Rom_Manager.Unpack.resources
+c:\users\varun\documents\visual studio 2017\Projects\Brotli Rom Manager\Brotli Rom Manager\obj\Debug\Brotli Rom Manager.vbproj.GenerateResource.Cache
+c:\users\varun\documents\visual studio 2017\Projects\Brotli Rom Manager\Brotli Rom Manager\obj\Debug\Brotli Rom Manager.exe
+c:\users\varun\documents\visual studio 2017\Projects\Brotli Rom Manager\Brotli Rom Manager\obj\Debug\Brotli Rom Manager.xml
+c:\users\varun\documents\visual studio 2017\Projects\Brotli Rom Manager\Brotli Rom Manager\obj\Debug\Brotli Rom Manager.pdb
+C:\Users\Varun\documents\visual studio 2017\Projects\Brotli Rom Manager\Brotli Rom Manager\obj\Debug\Brotli_Rom_Manager.UnpackLoad.resources
+C:\Users\Varun\documents\visual studio 2017\Projects\Brotli Rom Manager\Brotli Rom Manager\obj\Debug\Brotli_Rom_Manager.PackLoad.resources
+C:\Users\Varun\documents\visual studio 2017\Projects\Brotli Rom Manager\Brotli Rom Manager\bin\Debug\Brotli Rom Manager.exe.manifest
+C:\Users\Varun\documents\visual studio 2017\Projects\Brotli Rom Manager\Brotli Rom Manager\bin\Debug\Brotli Rom Manager.application
+C:\Users\Varun\documents\visual studio 2017\Projects\Brotli Rom Manager\Brotli Rom Manager\obj\Debug\Brotli Rom Manager.exe.manifest
+C:\Users\Varun\documents\visual studio 2017\Projects\Brotli Rom Manager\Brotli Rom Manager\obj\Debug\Brotli Rom Manager.application
