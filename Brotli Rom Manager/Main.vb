@@ -1,4 +1,6 @@
-﻿Public Class Main
+﻿Imports System.IO
+
+Public Class Main
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         Me.Hide()
         Unpack.Show()
@@ -30,5 +32,15 @@
 
     Private Sub Main_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         PictureBox2.Select()
+        IO.File.WriteAllBytes("brotli.exe", My.Resources.brotli)
+
+    End Sub
+
+    Private Sub Main_FormClosing(sender As Object, e As FormClosingEventArgs) Handles Me.FormClosing
+        Try
+            File.Delete("brotli.exe")
+        Catch ex As Exception
+
+        End Try
     End Sub
 End Class

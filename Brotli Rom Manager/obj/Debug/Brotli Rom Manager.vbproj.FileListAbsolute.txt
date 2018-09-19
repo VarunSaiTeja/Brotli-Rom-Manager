@@ -17,3 +17,23 @@ C:\Users\Varun\documents\visual studio 2017\Projects\Brotli Rom Manager\Brotli R
 C:\Users\Varun\documents\visual studio 2017\Projects\Brotli Rom Manager\Brotli Rom Manager\bin\Debug\Brotli Rom Manager.application
 C:\Users\Varun\documents\visual studio 2017\Projects\Brotli Rom Manager\Brotli Rom Manager\obj\Debug\Brotli Rom Manager.exe.manifest
 C:\Users\Varun\documents\visual studio 2017\Projects\Brotli Rom Manager\Brotli Rom Manager\obj\Debug\Brotli Rom Manager.application
+D:\Coding\Visual Basic\Brotli-Rom-Manager\Brotli Rom Manager\bin\Debug\Brotli Rom Manager.exe.config
+D:\Coding\Visual Basic\Brotli-Rom-Manager\Brotli Rom Manager\bin\Debug\Brotli Rom Manager.exe.manifest
+D:\Coding\Visual Basic\Brotli-Rom-Manager\Brotli Rom Manager\bin\Debug\Brotli Rom Manager.application
+D:\Coding\Visual Basic\Brotli-Rom-Manager\Brotli Rom Manager\bin\Debug\Brotli Rom Manager.exe
+D:\Coding\Visual Basic\Brotli-Rom-Manager\Brotli Rom Manager\bin\Debug\Brotli Rom Manager.pdb
+D:\Coding\Visual Basic\Brotli-Rom-Manager\Brotli Rom Manager\bin\Debug\Brotli Rom Manager.xml
+D:\Coding\Visual Basic\Brotli-Rom-Manager\Brotli Rom Manager\obj\Debug\Brotli Rom Manager.vbprojAssemblyReference.cache
+D:\Coding\Visual Basic\Brotli-Rom-Manager\Brotli Rom Manager\obj\Debug\Brotli_Rom_Manager.Main.resources
+D:\Coding\Visual Basic\Brotli-Rom-Manager\Brotli Rom Manager\obj\Debug\Brotli_Rom_Manager.Resources.resources
+D:\Coding\Visual Basic\Brotli-Rom-Manager\Brotli Rom Manager\obj\Debug\Brotli_Rom_Manager.Pack.resources
+D:\Coding\Visual Basic\Brotli-Rom-Manager\Brotli Rom Manager\obj\Debug\Brotli_Rom_Manager.PackLoad.resources
+D:\Coding\Visual Basic\Brotli-Rom-Manager\Brotli Rom Manager\obj\Debug\Brotli_Rom_Manager.Unpack.resources
+D:\Coding\Visual Basic\Brotli-Rom-Manager\Brotli Rom Manager\obj\Debug\Brotli_Rom_Manager.UnpackLoad.resources
+D:\Coding\Visual Basic\Brotli-Rom-Manager\Brotli Rom Manager\obj\Debug\Brotli Rom Manager.vbproj.GenerateResource.cache
+D:\Coding\Visual Basic\Brotli-Rom-Manager\Brotli Rom Manager\obj\Debug\Brotli Rom Manager.vbproj.CoreCompileInputs.cache
+D:\Coding\Visual Basic\Brotli-Rom-Manager\Brotli Rom Manager\obj\Debug\Brotli Rom Manager.exe.manifest
+D:\Coding\Visual Basic\Brotli-Rom-Manager\Brotli Rom Manager\obj\Debug\Brotli Rom Manager.application
+D:\Coding\Visual Basic\Brotli-Rom-Manager\Brotli Rom Manager\obj\Debug\Brotli Rom Manager.exe
+D:\Coding\Visual Basic\Brotli-Rom-Manager\Brotli Rom Manager\obj\Debug\Brotli Rom Manager.xml
+D:\Coding\Visual Basic\Brotli-Rom-Manager\Brotli Rom Manager\obj\Debug\Brotli Rom Manager.pdb

@@ -27,6 +27,11 @@ Brotli Rom Manager
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:Brotli_Rom_Manager.My.Resources.Resources.brotli">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
 <member name="P:Brotli_Rom_Manager.My.Resources.Resources.close">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
