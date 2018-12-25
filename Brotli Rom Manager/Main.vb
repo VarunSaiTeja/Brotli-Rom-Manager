@@ -19,7 +19,7 @@ Public Class Main
     End Sub
 
     Private Sub PictureBox2_Click(sender As Object, e As EventArgs) Handles PictureBox2.Click
-        Process.Start("https://api.whatsapp.com/send?phone=919010075670")
+        Process.Start("https://t.me/VarunSaiTeja")
     End Sub
 
     Private Sub PictureBox3_Click(sender As Object, e As EventArgs) Handles PictureBox3.Click

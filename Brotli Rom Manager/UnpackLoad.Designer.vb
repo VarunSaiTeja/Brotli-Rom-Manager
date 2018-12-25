@@ -65,7 +65,7 @@ Partial Class UnpackLoad
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.BackColor = System.Drawing.Color.DarkViolet
+        Me.BackColor = System.Drawing.Color.Gold
         Me.ClientSize = New System.Drawing.Size(440, 340)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)

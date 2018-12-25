@@ -47,6 +47,11 @@ Brotli Rom Manager
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:Brotli_Rom_Manager.My.Resources.Resources.telegram">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:Brotli_Rom_Manager.My.Resources.Resources.whatsapp">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
